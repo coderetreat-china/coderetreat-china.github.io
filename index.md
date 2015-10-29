@@ -34,7 +34,9 @@ facilitator 是 ...
 
 ### 社区
 
-[Spring用户组](http://springioug.com/), [深圳JUG](http://szjug.github.io/), [Eclipse](http://www.eclipsechina.org/), ..
+[北京设计模式学习组](http://www.bjdp.org/)
+[Spring用户组](http://springioug.com/), [深圳JUG](http://szjug.github.io/), [Eclipse](http://www.eclipsechina.org/),
+..
 
 ### 公司
 
