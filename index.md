@@ -40,14 +40,17 @@ facilitator 是 ...
 
 ## 社区
 
-[Software Craftsmanship Beijing](http://www.meetup.com/Software-Craftsmanship-Beijing/),
-[北京设计模式学习组](http://www.bjdp.org/),
-[Spring用户组](http://springioug.com/), [深圳JUG](http://szjug.github.io/), [Eclipse中国](http://www.eclipsechina.org/),
+- [Software Craftsmanship Beijing](http://www.meetup.com/Software-Craftsmanship-Beijing/),
+- [北京设计模式学习组](http://www.bjdp.org/),
+- [Spring用户组](http://springioug.com/),
+- [Eclipse中国](http://www.eclipsechina.org/),
+- 深圳软件匠艺小组,
+- [深圳JUG](http://szjug.github.io/),
 ..
 
 ## 公司
 
-![](http://szjug.github.io/images/logo/epam-logo.png)
+- ![](http://szjug.github.io/images/logo/epam-logo.png)
 [亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in [20+ locations](https://events.epam.com/events#coderetreat).
  [ref](http://coderetreat.org/group/facilitators/forum/topics/epam-systems-will-host-gdcr-in-20-cities)
 
