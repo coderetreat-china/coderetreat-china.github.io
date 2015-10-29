@@ -12,9 +12,17 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) [
 
 ## GDCR
 
-http://gdcr.coderetreat.org/
+<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在这个4个城市。
 
 ### 在哪
+
+- 北京
+- 上海
+- 成都
+- 深圳 - 中国深圳市南山区科发路1号富利臻大厦3层思微
+-
+-
+-
 
 ### traning for leaders
 
@@ -24,10 +32,15 @@ facilitator 是 ...
 
 
 
-### communities
+### 社区
 
-eclipse, spring
+[Spring用户组](http://springioug.com/), [深圳JUG](http://szjug.github.io/), [Eclipse](http://www.eclipsechina.org/), ..
 
-### companies
+### 公司
 
-EPAM is hosting GDCR2015 in 21 locations.
+![](http://szjug.github.io/images/logo/epam-logo.png)
+[亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in 20+ locations.
+ [ref](http://coderetreat.org/group/facilitators/forum/topics/epam-systems-will-host-gdcr-in-20-cities)
+ 
+ ...
+ 
