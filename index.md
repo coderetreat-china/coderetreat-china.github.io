@@ -19,7 +19,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## GDCR
 
-<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国这个4个城市。
+<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国这个5个城市。
 
 时间：  ___ 到  ___
 
@@ -28,6 +28,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 - 北京
 - 上海
 - 成都
+- 西安
 - 深圳 : 中国深圳市南山区科发路1号富利臻大厦3层思微
 
 ## training for leaders
