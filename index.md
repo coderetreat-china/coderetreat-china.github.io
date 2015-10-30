@@ -37,7 +37,28 @@ host 是 ..
 
 facilitator 是 ...
 
+## facilitators
 
+- 吴斌  Wu (Bin) Ben
+- 李小波 Lee Seaborn
+
+## guests 参加者
+
+经理也会编辑  :smile:
+
+- Gino Marckx
+
+![](images/people/Gino_Marckx.jpg)
+
+Corey Haines 朋友
+
+Gino Marckx (Toronto, Canada)
+Gino is passionate about enjoying work and is responsible for the Agile Competency Center at EPAM.
+
+Immediately after getting his Masters degree in Computer Science at the Ghent University in Belgium, Gino started his career as a programmer with a keen interest in every aspect of software engineering. To date, Gino has gained experience as a programmer, tester, business analyst, process manager, teacher, change agent and assumed various management roles in a variety of companies and industries.
+
+In 2002, Gino started working with some of Belgium's most prominent Agile promoters, joined the Belgian XP/Agile User Group and became actively involved in promoting Agile techniques and practices. After moving to Canada, he co-founded the Toronto Agile Software Development Community. Gino is on the Council of Advisors for the Agile Alliance Board of Directors.
+He likes to spend his spare time with family and friends enjoying cycling, travel, art, music, poetry and bragging about the supreme quality of Belgian beer.
 
 ## 社区
 
