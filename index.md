@@ -33,9 +33,9 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## training for leaders
 
-host 是 ..
+host 是组织者，他准备场地等等 ..
 
-facilitator 是 ...
+facilitator 是引导师. 他活动的时候给大家介绍，帮助 ...
 
 ## facilitators
 
