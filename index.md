@@ -39,8 +39,13 @@ facilitator 是 ...
 
 ## facilitators
 
-- 吴斌  Wu (Bin) Ben
+- 吴斌  Wu (Bin) Ben 第一名 ：-）
+
+![](images/people/WuBinBen_is_No1.PNG)
+
 - 李小波 Lee Seaborn
+
+![](images/people/Seaborn_Lee_26873ed.jpg)
 
 ## guests 参加者
 
