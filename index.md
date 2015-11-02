@@ -25,7 +25,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## Where 在哪
 
-- 北京
+- 北京 : [北京市西城区广安门外大街朗琴国际大厦B座1607A](http://mp.weixin.qq.com/s?__biz=MzI2OTAwOTMwMQ==&mid=211819044&idx=1&sn=3dd4835ef79cd993b22f852d55137c7d&scene=1&srcid=1015yRi9tBUYms5WpSagRphP&key=b410d3164f5f798e2ffcc8b5a62a1865617ae7d97f60d1c2b4ad33aedf1f085fcddec806307c82af442ed3a5e418ac85&ascene=1&uin=MTU3MzY5ODQ0MQ%3D%3D&devicetype=Windows+8&version=61050016&pass_ticket=9oT9P0TFRo58WDhhjt3xc95II6dTFuHVj8ZTI0qs%2By6sxx87TYikYiX2du0URk1Q)
 - 天津 :[（天津和平区）天津地铁一号线下瓦房站B口附近（B口出前行30米第一路口左转直走即到）](http://www.huodongxing.com/event/1306924362300) ¥50
 - 上海
 - 成都
@@ -43,7 +43,29 @@ the director (making sure things get done correctly) and main actor on the scene
 
 ## Facilitators
 
-- 吴斌  Wu (Bin) Ben 第一名 ：-）
+- 伍斌_Ben 第一名 ：-）
+
+![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KR0fBfsrahRnzic5nlORiaOld1QGLj9wMOeUK6F3xQYLPJLIB6Iw7tdhiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+著有《驯服烂代码：在编程操练中悟道》。自93年大学毕业以来，先后做过程序员、项目经理和软件开发咨询师。2013年4月创办全栈开发者的编程操练社区“bjdp.org北京设计模式学习组”，微信号：wubinben28，微信公众号bjdp_org，个人网站：wubinben.com。
+
+- 张敏娜
+
+![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KReXVEYia0IOdcsicXoV075qYRibCE2H7nUYXvNaReeZOXFtvtEmNiciaZGMg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+
+Daimler大中华有限公司全栈工程师，在手机行业有着12年经验，曾做过需求，技术规划, 测试，配置管理，开发，架构师。
+
+- 何永振
+
+![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KRIetHWZQImxbjVTozdA3KShpmeD4PJBfwfYJOgyhI7X1rzR5oWPFSeQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+相信优雅的代码会让这个世界变得更美好。最近参与的两个产品分别是：帮助神经外科医生进行术前诊断的脑电信号分析软件，和一款能进行分钟级降雨预报的天气预报app。
+
+- 董强
+
+![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KRFMbDarQECK3YBzvibAgJPzcylF50iayib099iaaAYn4zYV910ibYp3fwYgA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
+DQ，专注于Web开发的数学爱好者，乐于探究艺术与技术的结合，曾为“财富桥”初创团队什么都干工程师，现为ThoughtWorks Dev一枚。
 
 ![](images/people/WuBinBen_is_No1.PNG)
 
