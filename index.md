@@ -30,7 +30,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 - 上海
 - 成都
 - 西安
-- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](http://epa.ms/HackfestChina) )
+- [深圳](shenzhen) :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](http://epa.ms/HackfestChina) )
 - 大连
 
 ## Register 报名
