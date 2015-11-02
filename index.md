@@ -41,7 +41,7 @@ facilitator 是引导师. 他活动的时候给大家介绍，帮助 ...
 Using the film industry as an analogy, the host is the producer (making sure event will happen), whereas the facilitator is 2-in-1
 the director (making sure things get done correctly) and main actor on the scene.
 
-## facilitators
+## Facilitators
 
 - 吴斌  Wu (Bin) Ben 第一名 ：-）
 
@@ -51,7 +51,7 @@ the director (making sure things get done correctly) and main actor on the scene
 
 ![](images/people/Seaborn_Lee_26873ed.jpg)
 
-## guests 参加者
+## Guests 参加者
 
 经理也会编辑  :smile:
 
@@ -69,7 +69,7 @@ Immediately after getting his Masters degree in Computer Science at the Ghent Un
 In 2002, Gino started working with some of Belgium's most prominent Agile promoters, joined the Belgian XP/Agile User Group and became actively involved in promoting Agile techniques and practices. After moving to Canada, he co-founded the Toronto Agile Software Development Community. Gino is on the Council of Advisors for the Agile Alliance Board of Directors.
 He likes to spend his spare time with family and friends enjoying cycling, travel, art, music, poetry and bragging about the supreme quality of Belgian beer.
 
-## 社区
+## Communities 社区
 
 - [Software Craftsmanship Beijing](http://www.meetup.com/Software-Craftsmanship-Beijing/),
 - [北京设计模式学习组](http://www.bjdp.org/),
@@ -79,7 +79,7 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 - [深圳JUG](http://szjug.github.io/),
 ..
 
-## 公司
+## Companies 公司
 
 - ![](http://szjug.github.io/images/logo/epam-logo.png)
 [亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in [20+ locations](https://events.epam.com/events#coderetreat).
