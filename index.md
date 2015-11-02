@@ -44,7 +44,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 - 成都站报名链接：<https://jinshuju.net/f/VboeQS#rd>
 - 大连站报名链接：<http://yihuo.de/activities/153>
 
-## Roles
+## Roles 角色
 
 host 是组织者，他准备场地等等 ..
 
@@ -53,7 +53,7 @@ facilitator 是引导师. 他活动的时候给大家介绍，帮助 ...
 Using the film industry as an analogy, the host is the producer (making sure event will happen), whereas the facilitator is 2-in-1
 the director (making sure things get done correctly) and main actor on the scene.
 
-## Facilitators
+## Facilitators 引导者
 
 - 伍斌_Ben
 
