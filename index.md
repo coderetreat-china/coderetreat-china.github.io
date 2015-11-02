@@ -19,18 +19,30 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## GDCR
 
-<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国这个6个城市。
+<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国有7个城市。
 
 时间：  ___ 到  ___
 
 ## Where 在哪
 
-- 北京 : [北京市西城区广安门外大街朗琴国际大厦B座1607A](http://mp.weixin.qq.com/s?__biz=MzI2OTAwOTMwMQ==&mid=211819044&idx=1&sn=3dd4835ef79cd993b22f852d55137c7d&scene=1&srcid=1015yRi9tBUYms5WpSagRphP&key=b410d3164f5f798e2ffcc8b5a62a1865617ae7d97f60d1c2b4ad33aedf1f085fcddec806307c82af442ed3a5e418ac85&ascene=1&uin=MTU3MzY5ODQ0MQ%3D%3D&devicetype=Windows+8&version=61050016&pass_ticket=9oT9P0TFRo58WDhhjt3xc95II6dTFuHVj8ZTI0qs%2By6sxx87TYikYiX2du0URk1Q) -> [报名](https://jinshuju.net/f/0szA4a#rd)
+- 北京 : [北京市西城区广安门外大街朗琴国际大厦B座1607A](http://mp.weixin.qq.com/s?__biz=MzI2OTAwOTMwMQ==&mid=211819044&idx=1&sn=3dd4835ef79cd993b22f852d55137c7d&scene=1&srcid=1015yRi9tBUYms5WpSagRphP&key=b410d3164f5f798e2ffcc8b5a62a1865617ae7d97f60d1c2b4ad33aedf1f085fcddec806307c82af442ed3a5e418ac85&ascene=1&uin=MTU3MzY5ODQ0MQ%3D%3D&devicetype=Windows+8&version=61050016&pass_ticket=9oT9P0TFRo58WDhhjt3xc95II6dTFuHVj8ZTI0qs%2By6sxx87TYikYiX2du0URk1Q)
 - 天津 :[（天津和平区）天津地铁一号线下瓦房站B口附近（B口出前行30米第一路口左转直走即到）](http://www.huodongxing.com/event/1306924362300) ¥50
 - 上海
 - 成都
 - 西安
-- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微, 同位与[EPAM HackFest](http://epa.ms/HackfestChina)
+- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](http://epa.ms/HackfestChina) )
+- 大连
+
+## Register 报名
+
+2015年11月14日GDCR编程静修国际日，
+
+- 北京站报名链接：<https://jinshuju.net/f/0szA4a#rd>
+- 天津站报名链接：<http://www.huodongxing.com/event/1306924362300>
+- 上海站报名链接：<https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform>
+- 深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015>
+- 成都站报名链接：<https://jinshuju.net/f/VboeQS#rd>
+- 大连站报名链接：<http://yihuo.de/activities/153>
 
 ## Roles
 
