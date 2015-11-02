@@ -19,23 +19,27 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## GDCR
 
-<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国这个5个城市。
+<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国这个6个城市。
 
 时间：  ___ 到  ___
 
-## 在哪
+## Where 在哪
 
 - 北京
+- 天津 :[（天津和平区）天津地铁一号线下瓦房站B口附近（B口出前行30米第一路口左转直走即到）](http://www.huodongxing.com/event/1306924362300) ¥50
 - 上海
 - 成都
 - 西安
-- 深圳 : 中国深圳市南山区科发路1号富利臻大厦3层思微, 同位与[EPAM HackFest](http://epa.ms/HackfestChina)
+- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微, 同位与[EPAM HackFest](http://epa.ms/HackfestChina)
 
-## training for leaders
+## Roles
 
 host 是组织者，他准备场地等等 ..
 
 facilitator 是引导师. 他活动的时候给大家介绍，帮助 ...
+
+Using the film industry as an analogy, the host is the producer (making sure event will happen), whereas the facilitator is 2-in-1
+the director (making sure things get done correctly) and main actor on the scene.
 
 ## facilitators
 
