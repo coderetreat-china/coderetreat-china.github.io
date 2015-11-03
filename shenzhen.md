@@ -5,7 +5,13 @@ title: Coderetreat 中国 - 深圳站
 
 {% include navigation-links.html %}
 
+## Preparation meeting 准备会
+
+11月5日准备会。 [contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
+
 # Coderetreat 深圳站
+
+11月14日
 
 ## Where 在哪
 
