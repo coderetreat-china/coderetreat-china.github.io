@@ -19,7 +19,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## GDCR
 
-<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国有7个城市。
+<http://gdcr.coderetreat.org/> 2015年11月14日世界上。在中国有8个城市。
 
 时间：  ___ 到  ___
 
@@ -31,18 +31,31 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 - 成都
 - 西安
 - [深圳](shenzhen) :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](http://epa.ms/HackfestChina) )
+- 太原
 - 大连
+- 杭州
 
 ## Register 报名
 
 2015年11月14日GDCR编程静修国际日，
 
+<!--
 - 北京站报名链接：<https://jinshuju.net/f/0szA4a#rd>
 - 天津站报名链接：<http://www.huodongxing.com/event/1306924362300>
 - 上海站报名链接：<https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform>
 - 深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015>
 - 成都站报名链接：<https://jinshuju.net/f/VboeQS#rd>
 - 大连站报名链接：<http://yihuo.de/activities/153>
+-->
+
+- 上海：https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform 
+- 北京：https://jinshuju.net/f/0szA4a#rd 
+- 成都：https://jinshuju.net/f/VboeQS#rd 
+- 天津：http://www.huodongxing.com/event/1306924362300 
+- 深圳：https://yoopay.cn/event/31126629 
+- 太原：http://yihuo.de/activities/152 
+- 大连：http://yihuo.de/activities/153 
+- 杭州：http://yihuo.de/activities/154
 
 ## Roles 角色
 
