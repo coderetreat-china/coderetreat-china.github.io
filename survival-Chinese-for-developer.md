@@ -14,7 +14,7 @@ Be ready to hear some Chinese.
 The good news is when looking at the same screen and talking over the code you write together,
 it is not that hard, in fact quite joyful experience.
 
-And a few words would say some time and will help to break the ice.
+And knowing a few words would save some time and will help to break the ice.
 
 ## Minimal Vocabulary 最小的词汇
 
@@ -22,5 +22,7 @@ And a few words would say some time and will help to break the ice.
 - 这个是什么？Zhège shì shénme? What is this?
 - 类 lèi class
 - 方法 fāngfǎ method
-- 单元测试 dānyuán cèshì unit test
+- 单元测试 ānyuán cèshì unit test
 
+
+Good luck! 祝你好运！ Zhù nǐ hǎo yùn！
