@@ -21,7 +21,7 @@ And knowing a few words would save some time and will help to break the ice.
 - 这个是什么？Zhège shì shénme? What is this?
 - 类 lèi class
 - 方法 fāngfǎ method
-- 单元测试 ānyuán cèshì unit test
+- 单元测试 dānyuán cèshì unit test
 
 
 Good luck! 祝你好运！ Zhù nǐ hǎo yùn！
