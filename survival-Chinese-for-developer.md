@@ -23,6 +23,12 @@ And knowing a few words would save some time and will help to break the ice.
 - 方法 fāngfǎ method
 - 单元测试 dānyuán cèshì unit test
 
+## Homework 功课
+
+Have you got some time to prepare at home? Get browser plugins for quick words look-up on mouse over:
+for Mozilla Firefox get "Perapera Chinese", for Google Chrome get "Perapera Chinese Popup Dictionary".
+Now start pointing to character, 很简答。
+
 
 Good luck! 祝你好运！ Zhù nǐ hǎo yùn！
 
