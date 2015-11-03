@@ -18,11 +18,13 @@ title: Coderetreat 中国 - 深圳站
 
 - 深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015>
 
-## Facilitators
+## Facilitators 引导者
 
 - 李小波 Lee Seaborn
 
 ![](images/people/Seaborn_Lee_26873ed.jpg)
+
+深圳软件匠艺小组，深圳JUG组织者。
 
 ## Guests 参加者
 
@@ -41,6 +43,12 @@ Immediately after getting his Masters degree in Computer Science at the Ghent Un
 
 In 2002, Gino started working with some of Belgium's most prominent Agile promoters, joined the Belgian XP/Agile User Group and became actively involved in promoting Agile techniques and practices. After moving to Canada, he co-founded the Toronto Agile Software Development Community. Gino is on the Council of Advisors for the Agile Alliance Board of Directors.
 He likes to spend his spare time with family and friends enjoying cycling, travel, art, music, poetry and bragging about the supreme quality of Belgian beer.
+
+- Paul Verest 伟保罗
+
+![](images/people/Paul_Verest_140x140.jpg)
+
+Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统公司。对[Nodeclipse](http://www.nodeclipse.org/)和下面的社区有关系。
 
 ## Communities 社区
 
