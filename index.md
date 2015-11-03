@@ -5,9 +5,6 @@ title: Coderetreat 中国
 
 {% include navigation-links.html %}
 
-[Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/index.md),
-[website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
-
 # Coderetreat中国
 
 微信群
@@ -139,3 +136,5 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 
  ...
 
+[Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/index.md),
+[website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)

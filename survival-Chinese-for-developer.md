@@ -5,9 +5,6 @@ title: Coderetreat 中国 - Survival Chinese for developer
 
 {% include navigation-links.html %}
 
-[Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/survival-Chinese-for-developer.md),
-[website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
-
 # Survival Chinese for developer
 
 During [Coderetreat](index) or your work you may need to communicate with Chinese developer.
@@ -28,3 +25,7 @@ And knowing a few words would save some time and will help to break the ice.
 
 
 Good luck! 祝你好运！ Zhù nǐ hǎo yùn！
+
+
+[Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/survival-Chinese-for-developer.md),
+[website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)

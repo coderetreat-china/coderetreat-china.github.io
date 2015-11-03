@@ -5,10 +5,7 @@ title: Coderetreat 中国 - 深圳站
 
 {% include navigation-links.html %}
 
-[Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/shenzhen.md),
-[website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
-
-# Coderetreat 中国 - 深圳站
+# Coderetreat 深圳站
 
 ## Where 在哪
 
@@ -82,3 +79,5 @@ Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统�
 
  ...
 
+[Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/shenzhen.md),
+[website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
