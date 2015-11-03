@@ -44,6 +44,20 @@ Immediately after getting his Masters degree in Computer Science at the Ghent Un
 In 2002, Gino started working with some of Belgium's most prominent Agile promoters, joined the Belgian XP/Agile User Group and became actively involved in promoting Agile techniques and practices. After moving to Canada, he co-founded the Toronto Agile Software Development Community. Gino is on the Council of Advisors for the Agile Alliance Board of Directors.
 He likes to spend his spare time with family and friends enjoying cycling, travel, art, music, poetry and bragging about the supreme quality of Belgian beer.
 
+- Kael Zhang
+
+![](images/people/Kael_Zhang.jpg)
+
+敏捷技术教练，系统工程师，PMP，深圳软件匠艺推动者。
+
+擅长C++，python，ruby等编程语言，具备丰富的领域建模、代码质量提升、TDD、自动化测试等实战经验。对软件技术社区发展推广亦有贡献，组织多次社区活动（APAC、GDCR、编码道场等）。
+
+目前对函数式编程和erlang语言具有浓厚兴趣。
+
+工作之余喜欢阅读、写作、音乐、运动、研究新事物。
+
+<http://kaelzhang81.github.io/about/>
+
 - Paul Verest 伟保罗
 
 ![](images/people/Paul_Verest_140x140.jpg)
