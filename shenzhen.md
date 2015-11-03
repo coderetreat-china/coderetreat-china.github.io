@@ -11,7 +11,7 @@ title: Coderetreat 中国 - 深圳站
 
 # Coderetreat 深圳站
 
-11月14日
+11月14日7点
 
 ## Where 在哪
 
