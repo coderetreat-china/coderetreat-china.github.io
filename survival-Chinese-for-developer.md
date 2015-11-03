@@ -3,6 +3,8 @@ layout: leap_day_theme
 title: Coderetreat 中国 - Survival Chinese for developer
 ---
 
+{% include navigation-links.html %}
+
 [Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/survival-Chinese-for-developer.md),
 [website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
 
