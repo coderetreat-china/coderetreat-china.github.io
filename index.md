@@ -48,14 +48,14 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 - 大连站报名链接：<http://yihuo.de/activities/153>
 -->
 
-- 上海：https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform 
-- 北京：https://jinshuju.net/f/0szA4a#rd 
-- 成都：https://jinshuju.net/f/VboeQS#rd 
-- 天津：http://www.huodongxing.com/event/1306924362300 
-- 深圳：https://yoopay.cn/event/31126629 
-- 太原：http://yihuo.de/activities/152 
-- 大连：http://yihuo.de/activities/153 
-- 杭州：http://yihuo.de/activities/154
+- 上海：<https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform>
+- 北京：<https://jinshuju.net/f/0szA4a#rd>
+- 成都：<https://jinshuju.net/f/VboeQS#rd>
+- 天津：<http://www.huodongxing.com/event/1306924362300>
+- 深圳：<https://yoopay.cn/event/31126629>
+- 太原：<http://yihuo.de/activities/152>
+- 大连：<http://yihuo.de/activities/153> 
+- 杭州：<http://yihuo.de/activities/154>
 
 ## Roles 角色
 
