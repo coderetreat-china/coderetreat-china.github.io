@@ -67,7 +67,7 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 
 <http://kaelzhang81.github.io/about/>
 
-- Paul Verest 伟保罗
+- <a href="https://cn.linkedin.com/pub/paul-verest/10/645/105">Paul Verest</a> 伟保罗
 
 ![](images/people/Paul_Verest_140x140.jpg)
 
@@ -87,7 +87,10 @@ Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统�
 [亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in [20+ locations](https://events.epam.com/events#coderetreat).
  [ref](http://coderetreat.org/group/facilitators/forum/topics/epam-systems-will-host-gdcr-in-20-cities)
 
- ...
+##　More events 还有活动
+
+12-15th Nov.2015 there's also UX event "User Friendly 2015" 还有 UX 活动 11月12日到15日
+<http://www.userfriendly.org.cn>.
 
 [Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/shenzhen.md),
 [website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)

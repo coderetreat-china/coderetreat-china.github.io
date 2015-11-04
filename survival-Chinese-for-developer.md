@@ -33,7 +33,7 @@ Now start pointing to character, 很简答。
 Good luck! 祝你好运！ Zhù nǐ hǎo yùn！
 
 Best regards,
-Paul Verest 伟保罗
+<a href="https://cn.linkedin.com/pub/paul-verest/10/645/105">Paul Verest</a> 伟保罗
 
 ![](images/people/Paul_Verest_140x140.jpg)
 
