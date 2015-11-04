@@ -32,6 +32,10 @@ Now start pointing to character, 很简答。
 
 Good luck! 祝你好运！ Zhù nǐ hǎo yùn！
 
+Best regards,
+Paul Verest 伟保罗
+
+![](images/people/Paul_Verest_140x140.jpg)
 
 [Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/survival-Chinese-for-developer.md),
 [website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)

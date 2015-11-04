@@ -7,11 +7,12 @@ title: Coderetreat 中国 - 深圳站
 
 ## Preparation meeting 准备会
 
-11月5日准备会。 [contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
+[11月5日7点 Thursday 7pm preparation and training for facilitators 准备及引导者培训会](http://coderetreat.org/events/shenzhen-china-preparation-and-training-on-november-5th-7pm)。
+[contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
 
 # Coderetreat 深圳站
 
-11月14日7点
+11月14日
 
 ## Where 在哪
 
