@@ -19,9 +19,11 @@ title: Coderetreat 中国 - 深圳站
 
 ## Register 报名
 
+- [registration page 报名网页](https://yoopay.cn/event/31126629) or below 或者下面
+
 <script type="text/javascript" src="https://yoopay.cn/scripts/easyXDM.min.js"></script> <script type="text/javascript"> var REMOTE = "https://yoopay.cn";var transport = new easyXDM.Socket(/** The configuration */{remote: REMOTE + "/proxy.html?url=/payment/payment_widget/31126629%3Fwidth%3Dbig%26attendeeList%3Dshow%26ref%3D", swf: REMOTE + "/scripts/easyxdm.swf", container: "embedded", onMessage: function(message, origin) {this.container.getElementsByTagName("iframe")[0].style.width = "100%";this.container.getElementsByTagName("iframe")[0].style.height = parseInt(message) + 20 + "px";}});</script> <div id="embedded"></div>
 
-- 深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015>
+- 第二深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015>
 
 ## Facilitators 引导者
 
