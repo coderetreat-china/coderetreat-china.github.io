@@ -90,7 +90,7 @@ Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统�
 ##　More events 还有活动
 
 12-15th Nov.2015 there's also UX event "User Friendly 2015" 还有 UX 活动 11月12日到15日
-<http://www.userfriendly.org.cn>.
+<http://www.userfriendly.org.cn>. You can find [Mike Jessick there](http://www.userfriendly.org.cn/en/schedule/speech.aspx?id=,830).
 
 [Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/shenzhen.md),
 [website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
