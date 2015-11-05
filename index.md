@@ -59,6 +59,7 @@ While most people think GDCR is about practicing TDD, it is not. [ref](http://ww
 
 - 上海：<https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform>
 - 北京：<https://jinshuju.net/f/0szA4a#rd>
+- 北京 Tsinghua Science Park: <http://www.meetup.com/Software-Craftsmanship-Beijing/events/226561358/>
 - 成都：<https://jinshuju.net/f/VboeQS#rd>
 - 天津：<http://www.huodongxing.com/event/1306924362300>
 - 深圳：<https://yoopay.cn/event/31126629>
