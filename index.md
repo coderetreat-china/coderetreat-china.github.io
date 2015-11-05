@@ -26,7 +26,7 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 - read about Conway’s Game of Life
 
-- choose something to practice: writing methods of max 8/6/4 lines of code, using no ifs, using no cycles,
+- choose something to practice: writing methods of max 8/6/4 lines of code, immutables only, using no ifs, using no cycles,
 name everything precisely, avoid using the mouse at all etc.
 While most people think GDCR is about practicing TDD, it is not. [ref](http://www.alexbolboaca.ro/wordpress/articles/how-to-organize-a-code-retreat)
 
