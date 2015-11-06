@@ -48,7 +48,7 @@ quoted from [Code Reviews Can Make or Break Your Team](https://medium.com/swlh/c
 2) 清华科技园创新大厦B座1层, 伦贝谢北京地球科技中心
 - 天津 :[（天津和平区）天津地铁一号线下瓦房站B口附近（B口出前行30米第一路口左转直走即到）](http://www.huodongxing.com/event/1306924362300) ¥50
 - 上海
-- 成都
+- 成都: <http://x.eqxiu.com/s/5og01tQv> 很厉害的活动网站
 - 西安
 - [深圳](shenzhen) :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](http://epa.ms/HackfestChina) )
 - 太原
