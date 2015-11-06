@@ -5,7 +5,7 @@ title: Coderetreat 中国 - 深圳站
 
 {% include navigation-links.html %}
 
-[contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
+[contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues/new)
 
 # Coderetreat 深圳站
 
@@ -69,7 +69,7 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 
 ![](images/people/Paul_Verest_140x140.jpg)
 
-Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统公司。对[Nodeclipse](http://www.nodeclipse.org/)和下面的社区有关系。
+Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统公司。深圳JUG组织者。 对[Nodeclipse](http://www.nodeclipse.org/)和下面的社区有关系。
 
 ## Preparation meeting 准备会
 
