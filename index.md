@@ -44,7 +44,8 @@ quoted from [Code Reviews Can Make or Break Your Team](https://medium.com/swlh/c
 
 ## Where 在哪
 
-- 北京 : [北京市西城区广安门外大街朗琴国际大厦B座1607A](http://mp.weixin.qq.com/s?__biz=MzI2OTAwOTMwMQ==&mid=211819044&idx=1&sn=3dd4835ef79cd993b22f852d55137c7d&scene=1&srcid=1015yRi9tBUYms5WpSagRphP&key=b410d3164f5f798e2ffcc8b5a62a1865617ae7d97f60d1c2b4ad33aedf1f085fcddec806307c82af442ed3a5e418ac85&ascene=1&uin=MTU3MzY5ODQ0MQ%3D%3D&devicetype=Windows+8&version=61050016&pass_ticket=9oT9P0TFRo58WDhhjt3xc95II6dTFuHVj8ZTI0qs%2By6sxx87TYikYiX2du0URk1Q)
+- 北京  (2): 1)[北京市西城区广安门外大街朗琴国际大厦B座1607A](http://mp.weixin.qq.com/s?__biz=MzI2OTAwOTMwMQ==&mid=211819044&idx=1&sn=3dd4835ef79cd993b22f852d55137c7d&scene=1&srcid=1015yRi9tBUYms5WpSagRphP&key=b410d3164f5f798e2ffcc8b5a62a1865617ae7d97f60d1c2b4ad33aedf1f085fcddec806307c82af442ed3a5e418ac85&ascene=1&uin=MTU3MzY5ODQ0MQ%3D%3D&devicetype=Windows+8&version=61050016&pass_ticket=9oT9P0TFRo58WDhhjt3xc95II6dTFuHVj8ZTI0qs%2By6sxx87TYikYiX2du0URk1Q)
+2) 清华科技园创新大厦B座1层, 伦贝谢北京地球科技中心
 - 天津 :[（天津和平区）天津地铁一号线下瓦房站B口附近（B口出前行30米第一路口左转直走即到）](http://www.huodongxing.com/event/1306924362300) ¥50
 - 上海
 - 成都
@@ -68,7 +69,7 @@ quoted from [Code Reviews Can Make or Break Your Team](https://medium.com/swlh/c
 -->
 
 - 上海：<https://gdgdocs.org/forms/d/1DOyvCTbvORzZoD7YYD7VNusELUaeu-1-m6Y7TrVf0Fg/viewform>
-- 北京：<https://jinshuju.net/f/0szA4a#rd>
+- 北京 TW：<https://jinshuju.net/f/0szA4a#rd>
 - 北京 Tsinghua Science Park: <http://www.meetup.com/Software-Craftsmanship-Beijing/events/226561358/>
 - 成都：<https://jinshuju.net/f/VboeQS#rd>
 - 天津：<http://www.huodongxing.com/event/1306924362300>
