@@ -24,7 +24,9 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## Get prepared
 
-- read about Conway’s Game of Life
+- prepare your laptop, preferred runtime and IDE/editor
+
+- read about [Conway’s Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 - choose something to practice: writing methods of max 8/6/4 lines of code, immutables only, using no ifs, using no cycles,
 name everything precisely, avoid using the mouse at all etc.
