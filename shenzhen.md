@@ -33,6 +33,15 @@ title: Coderetreat 中国 - 深圳站
 
 深圳软件匠艺小组，深圳JUG组织者。
 
+- <a href="https://cn.linkedin.com/pub/paul-verest/10/645/105">Paul Verest</a> 伟保罗
+
+![](images/people/Paul_Verest_140x140.jpg)
+
+3 time attendee (first in 2011), event host and 1st time facilitator
+
+Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统公司。深圳JUG组织者。
+对[Nodeclipse](http://www.nodeclipse.org/)和下面的社区有关系。
+
 ## Guests 参加者
 
 经理也会编辑  :smile:
@@ -64,12 +73,6 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 工作之余喜欢阅读、写作、音乐、运动、研究新事物。
 
 <http://kaelzhang81.github.io/about/>
-
-- <a href="https://cn.linkedin.com/pub/paul-verest/10/645/105">Paul Verest</a> 伟保罗
-
-![](images/people/Paul_Verest_140x140.jpg)
-
-Java架构师，开发者。 五年在中国，6个月在深圳在 亿磐系统公司。深圳JUG组织者。 对[Nodeclipse](http://www.nodeclipse.org/)和下面的社区有关系。
 
 ## Preparation meeting 准备会
 
