@@ -74,6 +74,10 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 
 <http://kaelzhang81.github.io/about/>
 
+## Video connection
+
+This is in testing, possibly connecting via skype <callto://pverest> or <https://appear.in/coderetreat-shenzhen>
+
 ## Preparation meeting 准备会
 
 [11月5日7点 Thursday 7pm preparation and training for facilitators 准备及引导者培训会](http://coderetreat.org/events/shenzhen-china-preparation-and-training-on-november-5th-7pm)。
