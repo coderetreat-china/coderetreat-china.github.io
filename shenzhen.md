@@ -7,9 +7,11 @@ title: Coderetreat 中国 - 深圳站
 
 [contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues/new)
 
+去年分享：[深圳APAC Day of CodeRetreat笔记](http://blog.csdn.net/uxyheaven/article/details/46488069)
+
 # Coderetreat 深圳站
 
-11月14日9点到6点 Nomember 14th 9am to 6pm
+11月14日9点半到6点 Nomember 14th 9:30am to 6pm
 
 ## Where 在哪
 
