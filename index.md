@@ -22,7 +22,11 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 时间：  ___ 到  ___
 
-## Get prepared
+## Read 了解
+
+- [重构Coderetreat：探索简单的设计](http://www.infoq.com/cn/articles/refactoring-coderetreats), in English [Refactoring Coderetreats: In Search of Simple Design](http://www.infoq.com/articles/refactoring-coderetreats)
+
+## Get prepared 准备
 
 - prepare your laptop, preferred runtime and IDE/editor
 
