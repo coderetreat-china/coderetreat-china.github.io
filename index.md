@@ -38,7 +38,7 @@ While most people think GDCR is about practicing TDD, it is not. [ref](http://ww
 
 - intro to [Software Craftsmanship](http://www.slideshare.net/alexboly/introduction-to-software-craftsmanship)
 
-- Codereview vs "Let's do commit together"
+- Codereview vs LCT "Let's do commit together"
 
 > Let’s begin with a somewhat obvious observation: 100% of candidates will tell you they support code reviews. Saying you don’t like reviews is tantamount to saying “I drown kittens in my spare time”. A good number of them are lying to you. Why? Because they have had horrible experiences with code reviews, and because those experiences happened when they were very junior, they think that’s what code reviews are. Hopefully this article will help fix that.
 

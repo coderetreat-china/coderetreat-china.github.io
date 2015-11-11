@@ -15,7 +15,7 @@ title: Coderetreat 中国 - 深圳站
 
 [![](http://ww2.sinaimg.cn/large/61412e43gw1eqfsh8lbvej20vq0ntdnj.jpg)](http://www.seabornlee.cn/post/huo-dong/gdcr-2013-shen-zhen-zong-jie)
 
-# Coderetreat 深圳站
+# Coderetreat 深圳站 2015
 
 11月14日9点半到6点 Nomember 14th 9:30am to 6pm
 
@@ -95,7 +95,7 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 05:00 Session #6
 </pre>
 
-## Video connection
+## Video connection 视频链接
 
 This is in testing, possibly connecting via skype <callto://pverest> or <https://appear.in/coderetreat-shenzhen>
 
