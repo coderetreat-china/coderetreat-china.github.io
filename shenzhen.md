@@ -9,13 +9,17 @@ title: Coderetreat 中国 - 深圳站
 
 去年分享：[深圳APAC Day of CodeRetreat笔记](http://blog.csdn.net/uxyheaven/article/details/46488069)
 
+[Code Retreat: What, Why and How? by Lee Seaborn](http://www.seabornlee.cn/post/huo-dong/what-is-code-retreat)
+
+[GDCR（Global Day of CodeRetreat） 2013 深圳总结](http://www.seabornlee.cn/post/huo-dong/gdcr-2013-shen-zhen-zong-jie)
+
 # Coderetreat 深圳站
 
 11月14日9点半到6点 Nomember 14th 9:30am to 6pm
 
 ## Where 在哪
 
-- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](http://epa.ms/HackfestChina) )
+- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](https://epa.ms/HackFestAPAC2015) )
 
 ## Register 报名
 
@@ -76,6 +80,19 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 
 <http://kaelzhang81.github.io/about/>
 
+## Time line 安排
+
+<pre>
+09:30 Start
+10:00 Session #1
+11:00 Session #2
+12:00 Session #3
+01:00 Lunch long break
+03:00 Session #4
+03:00 Session #5
+05:00 Session #6
+</pre>
+
 ## Video connection
 
 This is in testing, possibly connecting via skype <callto://pverest> or <https://appear.in/coderetreat-shenzhen>
@@ -104,7 +121,7 @@ Expecting connecting to
 
 ##　More events 还有活动
 
-除了EPAM HackFest 11月14日到15日,
+除了[EPAM HackFest](https://epa.ms/HackFestAPAC2015) 11月14日到15日,
 
 on 12-15th Nov.2015 there's also UX event "User Friendly 2015" 还有 UX 活动 11月12日到15日
 <http://www.userfriendly.org.cn>. You can find [Mike Jessick there](http://www.userfriendly.org.cn/en/schedule/speech.aspx?id=,830).
