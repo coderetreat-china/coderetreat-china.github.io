@@ -15,6 +15,8 @@ title: Coderetreat 中国 - 深圳站
 
 [![](http://ww2.sinaimg.cn/large/61412e43gw1eqfsh8lbvej20vq0ntdnj.jpg)](http://www.seabornlee.cn/post/huo-dong/gdcr-2013-shen-zhen-zong-jie)
 
+<https://info.epam.com/en/news/career/2015/coderetreat.html>
+
 # Coderetreat 深圳站 2015
 
 11月14日9点半到6点 Nomember 14th 9:30am to 6pm
@@ -22,6 +24,7 @@ title: Coderetreat 中国 - 深圳站
 ## Where 在哪
 
 - 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](https://epa.ms/HackFestAPAC2015) )
+<http://www.simplywork.cn/> space 2.0
 
 ## Register 报名
 
@@ -29,7 +32,7 @@ title: Coderetreat 中国 - 深圳站
 
 <script type="text/javascript" src="https://yoopay.cn/scripts/easyXDM.min.js"></script> <script type="text/javascript"> var REMOTE = "https://yoopay.cn";var transport = new easyXDM.Socket(/** The configuration */{remote: REMOTE + "/proxy.html?url=/payment/payment_widget/31126629%3Fwidth%3Dbig%26attendeeList%3Dshow%26ref%3D", swf: REMOTE + "/scripts/easyxdm.swf", container: "embedded", onMessage: function(message, origin) {this.container.getElementsByTagName("iframe")[0].style.width = "100%";this.container.getElementsByTagName("iframe")[0].style.height = parseInt(message) + 20 + "px";}});</script> <div id="embedded"></div>
 
-- 第二深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015>
+- 第二深圳站报名链接：<http://epa.ms/gdcr-shenzhen-cn-2015> was to <http://www.51qiangda.com/forms/561b6ad8353171469701a770>
 - <http://coderetreat.org/events/global-day-of-coderetreat-2015-shenzhen-china> this is unfortunately note enough.
 - EPAM link <https://events.epam.com/events/coderetreat-shenzhen> does not work in China.
 
