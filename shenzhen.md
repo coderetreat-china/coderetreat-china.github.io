@@ -104,7 +104,9 @@ This is in testing, possibly connecting via skype <callto://pverest> or <https:/
 
 Expecting connecting to
 
-- Alexandru Bolboaca, Coderetreat at Bucharest, Romania
+- Anuar Nurmakanov, Coderetreat at Karaganda, Kazakhstan (UTC+6)
+- Alexandru Bolboaca, Coderetreat at Bucharest, Romania (UTC+2)
+
 
 ## Preparation meeting 准备会
 
