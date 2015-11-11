@@ -13,6 +13,8 @@ title: Coderetreat 中国 - 深圳站
 
 [GDCR（Global Day of CodeRetreat） 2013 深圳总结](http://www.seabornlee.cn/post/huo-dong/gdcr-2013-shen-zhen-zong-jie)
 
+[![](http://ww2.sinaimg.cn/large/61412e43gw1eqfsh8lbvej20vq0ntdnj.jpg)](http://www.seabornlee.cn/post/huo-dong/gdcr-2013-shen-zhen-zong-jie)
+
 # Coderetreat 深圳站
 
 11月14日9点半到6点 Nomember 14th 9:30am to 6pm
