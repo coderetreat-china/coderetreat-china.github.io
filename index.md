@@ -95,7 +95,7 @@ the director (making sure things get done correctly) and main actor on the scene
 
 - 伍斌_Ben
 
-![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KR0fBfsrahRnzic5nlORiaOld1QGLj9wMOeUK6F3xQYLPJLIB6Iw7tdhiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](images/people/WuBinBen_380.jpg)
 
 著有《驯服烂代码：在编程操练中悟道》。自93年大学毕业以来，先后做过程序员、项目经理和软件开发咨询师。2013年4月创办全栈开发者的编程操练社区“bjdp.org北京设计模式学习组”，微信号：wubinben28，微信公众号bjdp_org，个人网站：wubinben.com。
 
