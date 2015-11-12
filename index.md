@@ -167,7 +167,7 @@ He likes to spend his spare time with family and friends enjoying cycling, trave
 [亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in [20+ locations](https://events.epam.com/events#coderetreat).
  [ref](http://coderetreat.org/group/facilitators/forum/topics/epam-systems-will-host-gdcr-in-20-cities)
 
-- [![](images/logo/ztelogo.png)](http://zte.com.cn/)
+- [![](images/logo/ztelogo.png)](http://www.zte.com.cn/)
 
  ...
 
