@@ -13,6 +13,14 @@ Yes it is useful, especially once in a big while with external adviser. The prob
 - it is hard to remember all comments and change appropriately. And almost infeasible to check that it was done.
 - after a round nobody wants to repeat it again. So the practice just dies.
 
+And then there's question of code quality. I believe in
+
+- The only valid measurement of code quality: WTFs per minute
+
+![](http://blog.codinghorror.com/content/images/uploads/2009/02/6a0120a85dcdae970b012877707a45970c-pi.png)
+
+that saying politely is how much strange pieces the code have. ([ref2](http://blog.codinghorror.com/whos-your-coding-buddy/))
+
 ## Code review with GitHub PR
 
 GitHub made great step forward with Pull Request. Yes, looking on the code before merging is actually code review.
@@ -21,7 +29,7 @@ It is awesome for distributed team, especially in different time zone, when you 
 
 But when sitting together in the same room do LCT
 
-## Let's commit together
+## Let's commit together 让我们一起提交
 
 Before committing I am looking for a team mate to look at my code for 3-5 minutes. Anyone free to sit in front of PC.
 Then by using IDE to show code changes, I go through them and explain what was the goal and why it is done this way.
