@@ -26,6 +26,8 @@ title: Coderetreat 中国 - 深圳站
 - 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](https://epa.ms/HackFestAPAC2015) )
 <http://www.simplywork.cn/> space 2.0
 
+[![](images/gdcr/simplywork_cn_space_2_0.png)](images/gdcr/simplywork_cn_space_2_0.png)
+
 ## Register 报名
 
 - [registration page 报名网页](https://yoopay.cn/event/31126629) or below 或者下面
@@ -107,6 +109,12 @@ Expecting connecting to
 - Anuar Nurmakanov, Coderetreat at Karaganda, Kazakhstan (UTC+6)
 - Alexandru Bolboaca, Coderetreat at Bucharest, Romania (UTC+2)
 
+## Onlinde IDE templates
+
+Codenvy factory "CoderetreatJavaMaven"
+[![alt](https://codenvy.com/factory/resources/factory-white.png)](https://codenvy.com/factory?id=oy4tneipvepg2wqy)
+
+Cloud9 IDE for Node.js <https://ide.c9.io/paulvi/codereteat-nodejs>
 
 ## Preparation meeting 准备会
 
