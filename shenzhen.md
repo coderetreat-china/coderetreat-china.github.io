@@ -138,6 +138,8 @@ Cloud9 IDE for Node.js <https://ide.c9.io/paulvi/codereteat-nodejs>
 [亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in [20+ locations](https://events.epam.com/events#coderetreat).
  [ref](http://coderetreat.org/group/facilitators/forum/topics/epam-systems-will-host-gdcr-in-20-cities)
 
+- [![](images/logo/ztelogo.png)](http://zte.com.cn/)
+
 ##　More events 还有活动
 
 除了[EPAM HackFest](https://epa.ms/HackFestAPAC2015) 11月14日到15日,
