@@ -19,7 +19,7 @@ And then there's question of code quality. I believe in
 
 ![](http://blog.codinghorror.com/content/images/uploads/2009/02/6a0120a85dcdae970b012877707a45970c-pi.png)
 
-that saying politely is how much strange pieces the code have. ([ref2](http://blog.codinghorror.com/whos-your-coding-buddy/))
+that saying politely is how much strange pieces the code has. ([ref2](http://blog.codinghorror.com/whos-your-coding-buddy/))
 
 ## Code review with GitHub PR
 
