@@ -7,6 +7,8 @@ title: Coderetreat 中国 - 深圳站
 
 [contact us / 联系我们](https://github.com/coderetreat-china/coderetreat-china.github.io/issues/new)
 
+## Before 之前
+
 去年分享：[深圳APAC Day of CodeRetreat笔记](http://blog.csdn.net/uxyheaven/article/details/46488069)
 
 [Code Retreat: What, Why and How? by Lee Seaborn](http://www.seabornlee.cn/post/huo-dong/what-is-code-retreat)
@@ -23,8 +25,10 @@ title: Coderetreat 中国 - 深圳站
 
 ## Where 在哪
 
-- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微  ( 同位与[EPAM HackFest](https://epa.ms/HackFestAPAC2015) )
+- 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微 (近高新园地铁站B出口) ( 同位与[EPAM HackFest](https://epa.ms/HackFestAPAC2015) )
 <http://www.simplywork.cn/> space 2.0
+
+3/F, Fulizhen Building, 1 Kefa Road, Nanshan District, Shenzhen (close to Exit B of High Tech Park Subway Station)
 
 [![](images/gdcr/simplywork_cn_space_2_0.png)](images/gdcr/simplywork_cn_space_2_0.png)
 
