@@ -105,19 +105,25 @@ coderetreat 第一名 ：-）
 
 - 张敏娜
 
+<!--
 ![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KReXVEYia0IOdcsicXoV075qYRibCE2H7nUYXvNaReeZOXFtvtEmNiciaZGMg/640?wx_fmt=png&tp=webp&wxfrom=5)
+-->
 
 Daimler大中华有限公司全栈工程师，在手机行业有着12年经验，曾做过需求，技术规划, 测试，配置管理，开发，架构师。
 
 - 何永振
 
+<!--
 ![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KReXVEYia0IOdcsicXoV075qYRibCE2H7nUYXvNaReeZOXFtvtEmNiciaZGMg/640?wx_fmt=png&tp=webp&wxfrom=5)
+-->
 
 相信优雅的代码会让这个世界变得更美好。最近参与的两个产品分别是：帮助神经外科医生进行术前诊断的脑电信号分析软件，和一款能进行分钟级降雨预报的天气预报app。
 
 - 董强
 
+<!--
 ![](http://mmbiz.qpic.cn/mmbiz/JzLiaOQ9r9qES060VQZusoYEs3NceX0KRFMbDarQECK3YBzvibAgJPzcylF50iayib099iaaAYn4zYV910ibYp3fwYgA/640?wx_fmt=jpeg&tp=webp&wxfrom=5)
+-->
 
 DQ，专注于Web开发的数学爱好者，乐于探究艺术与技术的结合，曾为“财富桥”初创团队什么都干工程师，现为ThoughtWorks Dev一枚。
 

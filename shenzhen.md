@@ -28,7 +28,7 @@ title: Coderetreat 中国 - 深圳站
 - 深圳  :中国深圳市南山区科发路1号富利臻大厦3层思微 (近高新园地铁站B出口) ( 同位与[EPAM HackFest](https://epa.ms/HackFestAPAC2015) )
 <http://www.simplywork.cn/> space 2.0
 
-3/F, Fulizhen Building, 1 Kefa Road, Nanshan District, Shenzhen (close to Exit B of High Tech Park Subway Station)
+- 3/F, Fulizhen Building, 1 Kefa Road, Nanshan District, Shenzhen (close to Exit B of High Tech Park Subway Station)
 
 [![](images/gdcr/simplywork_cn_space_2_0.png)](images/gdcr/simplywork_cn_space_2_0.png)
 
