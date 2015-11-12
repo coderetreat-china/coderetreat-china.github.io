@@ -134,7 +134,8 @@ Cloud9 IDE for Node.js <https://ide.c9.io/paulvi/codereteat-nodejs>
 
 ## Companies 公司
 
-- ![](http://szjug.github.io/images/logo/epam-logo.png)
+- [![](http://szjug.github.io/images/logo/epam-logo.png)](http://www.epam.com)
+
 [亿磐系统 (EPAM Systems)](http://www.epam.com) is hosting GDCR in [20+ locations](https://events.epam.com/events#coderetreat).
  [ref](http://coderetreat.org/group/facilitators/forum/topics/epam-systems-will-host-gdcr-in-20-cities)
 
