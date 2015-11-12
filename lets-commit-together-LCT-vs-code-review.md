@@ -52,6 +52,8 @@ If there are big problem we don't commit, but it never happens because we ask qu
 LCT is done 1-2 time per developer, as everyone is advised to finish and commit at the end of day.
 On the morning stand-up I will repeat what I did (I just practiced presenting yesterday) and who reviewed.
 
+Lead by example.
+
 Good luck! 祝你好运！
 
 <a href="https://cn.linkedin.com/pub/paul-verest/10/645/105">Paul Verest</a> 伟保罗
