@@ -1,6 +1,8 @@
 ---
 layout: leap_day_theme
 title: Blog post test
+date: 2015-11-16
+categories: [blog,test]
 ---
 
 {{ page.title }}
