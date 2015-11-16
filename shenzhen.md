@@ -110,8 +110,10 @@ This is in testing, possibly connecting via skype <callto://pverest> or <https:/
 
 Expecting connecting to
 
+- 伍斌_Ben, ChengDu, China
 - Anuar Nurmakanov, Coderetreat at Karaganda, Kazakhstan (UTC+6)
 - Alexandru Bolboaca, Coderetreat at Bucharest, Romania (UTC+2)
+- Mike Long, Sweeden (UTC+2)
 
 ## Onlinde IDE templates
 
@@ -123,6 +125,12 @@ Cloud9 IDE for Node.js <https://ide.c9.io/paulvi/codereteat-nodejs>
 ## Preparation meeting 准备会
 
 [11月5日7点 Thursday 7pm preparation and training for facilitators 准备及引导者培训会](http://coderetreat.org/events/shenzhen-china-preparation-and-training-on-november-5th-7pm)。
+
+## Afterthought
+
+It was good. Not perfect.
+
+
 
 ## Communities 社区
 
