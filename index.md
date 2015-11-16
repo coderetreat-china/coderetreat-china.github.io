@@ -24,6 +24,8 @@ Coderetreat is about [Extreme Programming](http://www.extremeprogramming.org/) (
 
 ## Read 了解
 
+- 5 min intro to GDCR by Alex Bolboacă <https://vimeo.com/145525880>
+
 - [重构Coderetreat：探索简单的设计](http://www.infoq.com/cn/articles/refactoring-coderetreats), in English [Refactoring Coderetreats: In Search of Simple Design](http://www.infoq.com/articles/refactoring-coderetreats)
 
 ## Get prepared 准备
