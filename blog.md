@@ -1,10 +1,10 @@
 ---
 layout: leap_day_theme
-title: Coderetreat 中国 - blog 博客
+title: Coderetreat 中国 - Blog 博客
 ---
 
 
-## blog 博客
+## Blog 博客
 
 <ul class="posts">
     {% for post in site.posts %}
