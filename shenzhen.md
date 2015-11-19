@@ -130,7 +130,9 @@ Cloud9 IDE for Node.js <https://ide.c9.io/paulvi/codereteat-nodejs>
 
 It was good. Not perfect.
 
+## [Photos 照片](gdcr/2015/photos)
 
+6 Photos 照片
 
 ## Communities 社区
 
