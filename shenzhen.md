@@ -132,7 +132,9 @@ It was good. Not perfect.
 
 ## [Photos 照片](gdcr/2015/photos)
 
-6 Photos 照片
+[6 Photos 照片](gdcr/2015/photos)
+
+[![](http://api.ning.com/files/3N7BcgqSCcRUjJS0ZlNZj44i**Uyi8102yycBKqgwwXCyaj4QpwcuvuCiTcobTKJexULX1TGXsaWB8ZjQd7gS5c*Ov3vU*gz/IMG_20151114_105403.jpg?width=737&height=552)](gdcr/2015/photos)
 
 ## Communities 社区
 
