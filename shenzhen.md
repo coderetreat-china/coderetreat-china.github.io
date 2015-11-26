@@ -130,6 +130,21 @@ Cloud9 IDE for Node.js <https://ide.c9.io/paulvi/codereteat-nodejs>
 
 It was good. Not perfect.
 
+### Advice by Alex Bolboaca
+
+From my experience, coderetreats work well for a self-selecting group. The chain reaction you were hoping for can still appear, but it will take a bit of time. It could help if you discuss with the people who attended and identify a few enthusiasts you can work with. For example setup an internal community of practice where you do coderetreat-like sessions for 2hrs a week to grow the volunteers' skills.
+
+Also, it's typical for agile to start from organizational practices; usually because that's what managers understand better or can get budget for. If done right, it doesn't take long until you realize you need some technical practices. For example, if you cannot fully test stories developed during a sprint. Or if you have big bang integration. Etc. 
+
+I would therefore wait a bit, until these problems appear and then propose the solution. Automation is typically easier to "sell" than pairing, especially when you have one of the problems above. 
+
+There are two interesting things you can do at team level:
+
+- set a team agreement for usable software design: see what Johan Martinsson did here <http://martinsson-johan.blogspot.ro/2015/03/usable-software-design-federating.html>
+- show the managers this video: <https://www.youtube.com/watch?v=CostXs2p6r0>
+
+Other than that, if you want to introduce change in the organization I recommend reading "Fearless change" by Linda Rising.
+
 ## [Photos 照片](gdcr/2015/photos)
 
 [6 Photos 照片](gdcr/2015/photos)
