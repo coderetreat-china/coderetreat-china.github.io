@@ -175,5 +175,8 @@ Other than that, if you want to introduce change in the organization I recommend
 on 12-15th Nov.2015 there's also UX event "User Friendly 2015" 还有 UX 活动 11月12日到15日
 <http://www.userfriendly.org.cn>. You can find [Mike Jessick there](http://www.userfriendly.org.cn/en/schedule/speech.aspx?id=,830).
 
+P.S. On November 15th there was also [DevFest 2015 GDG Shenzhen](https://plus.google.com/events/cbb49danbr4r4oepan3j21feobc) organized by 
+[Shenzhen Google Developer Group (GDG)](https://developers.google.com/groups/chapter/116409718883299342983/)
+
 [Edit this page / 编辑此页](https://github.com/coderetreat-china/coderetreat-china.github.io/edit/master/shenzhen.md),
 [website problem / 告知网站问题](https://github.com/coderetreat-china/coderetreat-china.github.io/issues)
